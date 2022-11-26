@@ -1,10 +1,14 @@
-### Hi there 👋, I'm Eva
+## Hi there 👋, I'm Eva
 
-#### I am a student of Yandex Practicum on FrontEnd Development.
+### I am a student of Yandex Practicum on FrontEnd Development.
 ![I am a student of Yandex Practicum on FrontEnd Development.](https://static.tildacdn.com/tild3165-6463-4563-a333-643137616537/cat-computer-veryfas.gif)
 
-#### There should be my own projects here, but for now I'm just learning.
-
+### There should be my own projects here, but for now I'm just learning.
+#### My skills
+🔹 JavaScript
+🔹 HTML CSS (responsive, BEM)
+🔹 Flex/Grid
+🔹 Git
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mintolime)](https://git.io/streak-stats)
