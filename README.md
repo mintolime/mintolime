@@ -5,10 +5,10 @@
 
 ### There should be my own projects here, but for now I'm just learning.
 #### My skills
-🔹 JavaScript
-🔹 HTML CSS (responsive, BEM)
-🔹 Flex/Grid
-🔹 Git
+- 🔹 JavaScript
+- 🔹 HTML CSS (responsive, BEM)
+- 🔹 Flex/Grid
+- 🔹 Git
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mintolime)](https://git.io/streak-stats)
