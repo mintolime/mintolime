@@ -1,9 +1,11 @@
 ## Hi there 👋, I'm Eva
 
 ### I am a student of Yandex Practicum on FrontEnd Development.
-![I am a student of Yandex Practicum on FrontEnd Development.](https://static.tildacdn.com/tild3165-6463-4563-a333-643137616537/cat-computer-veryfas.gif)
+<div>
+<img src="./img/cot.gif" >
+</div>
 
-### There should be my own projects here, but for now I'm just learning.
+### There should be my own projectheight="150px"s here, but for now I'm just learning.
 #### My skills
 - 🔹 JavaScript
 - 🔹 HTML CSS (responsive, BEM)
