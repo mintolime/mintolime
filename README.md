@@ -11,6 +11,8 @@
 - 🔹 HTML CSS (responsive, BEM)
 - 🔹 Flex/Grid
 - 🔹 Git
+- 🔹 React
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mintolime)](https://git.io/streak-stats)
