@@ -2,7 +2,7 @@
 
 ### I am a student of Yandex Practicum on FrontEnd Development.
 <div>
-<img src="./img/cot.gif" alt="coding cat" height="540px" width="650px">
+<img src="./img/cot.gif" alt="coding cat" height="540px" width="750px">
 </div>
 
 ### There should be my own projectheight="150px"s here, but for now I'm just learning.
