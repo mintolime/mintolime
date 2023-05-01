@@ -8,11 +8,15 @@
 <img src="./img/cot.gif" alt="coding cat" height="540px" width="750px">
 </div>
 
+
+
 <div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mintolime)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintolime&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mintolime)](https://git.io/streak-stats)
+
 
 #### My skills
 <div>
