@@ -1,11 +1,12 @@
 ## Hi there 👋, I'm Eva
 
 ### I am a student of Yandex Practicum on FrontEnd Development.
+
+### There should be my own projects here, but for now I'm just learning.
+
 <div>
 <img src="./img/cot.gif" alt="coding cat" height="540px" width="750px">
 </div>
-
-### There should be my own projects here, but for now I'm just learning.
 
 <div align="center">
   
