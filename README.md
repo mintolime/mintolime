@@ -6,10 +6,11 @@
 </div>
 
 ### There should be my own projects here, but for now I'm just learning.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintolime&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintolime&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mintolime)](https://git.io/streak-stats)
+</div>
 
 #### My skills
 <div>
@@ -25,6 +26,4 @@
 <img src="https://komarev.com/ghpvc/?username=mintolime" alt="stats" />
 <br />
 
-<div align="center">
-  
-</div>
+
