@@ -16,7 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintolime&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 
-
+</div>
 #### My skills
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -30,5 +30,5 @@
 <br />
 <img src="https://komarev.com/ghpvc/?username=mintolime" alt="stats" />
 <br />
-</div>
+
 
