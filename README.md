@@ -5,7 +5,7 @@
 ### There should be my own projects here, but for now I'm just learning.
 
 <div>
-<img src="./img/cot.gif" alt="coding cat" height="540px" width="750px">
+<img src="./img/cot.gif" alt="coding cat" height="500px" width="700px">
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mintolime)](https://git.io/streak-stats)  
