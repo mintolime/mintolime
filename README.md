@@ -1,7 +1,7 @@
 
 
 <div>
-<img src="./img/cot.gif" alt="coding cat" height="250px" width="400px">
+<img src="./img/cot.gif" alt="coding cat" height="300px" width="500px">
 </div>
 
 ## Hi there 👋, I'm Eva
