@@ -1,14 +1,11 @@
+# Hi there 👋, I'm Eva
 
+### I am a FrontEnd Development.
+###  Nice to have you on my page. 
 
 <div>
 <img src="./img/cot.gif" alt="coding cat" height="300px" width="500px">
 </div>
-
-## Hi there 👋, I'm Eva
-
-### I am a student of Yandex Practicum on FrontEnd Development.
-
-### There should be my own projects here, but for now I'm just learning.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mintolime)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintolime&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
