@@ -1,6 +1,6 @@
 <div align="center">
 
-`console.log('HI THERE'!)` <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20" width="20px"/>
+`console.log('HI THERE!')` <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20" width="20px"/>
 
 
 ### I'm a Front-End Developer. Nice to have you on my page!  
