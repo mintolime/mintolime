@@ -1,21 +1,21 @@
 <div align="center">
 
-# Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+`console.log('HI THERE'!)` <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20" width="20px"/>
 
 
-### I'm a FrontEnd Development. Nice to have you on my page! 
+### I'm a Front-End Developer. Nice to have you on my page!  
 
-<img src="./img/cot.gif" alt="coding cat" height="300px" width="500px">
+<img src="./img/coding-mood.gif" alt="coding cat" height="300px" width="500px">
 <br />
 
-## My stats 
+## 🔥 &nbsp; My Stats :
 ----
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mintolime)](https://git.io/streak-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mintolime&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-## My skills 
+## 🛠 &nbsp; My skills 
 ----
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
