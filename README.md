@@ -32,6 +32,6 @@
 </div>
 <br />
 <img src="https://komarev.com/ghpvc/?username=mintolime" alt="stats" />
+<img src="https://www.codewars.com/users/mintolime/badges/micro" alt="codewars" />
 <br />
-
 </div>
