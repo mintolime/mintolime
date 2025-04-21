@@ -10,14 +10,12 @@
 
 ## 🔥 &nbsp; My Stats :
 ----
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mintolime&theme=aura_dark)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mintolime&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mintolime&layout=compact&langs_count=8&card_width=220&theme=vision-friendly-dark" />
-</a>
-
+<div align="center" style="display: flex; flex-direction: column; gap: 12px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mintolime&theme=aura_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mintolime&theme=aura_dark" />
+</div>
 
 ## 🛠 &nbsp; My Skills :
 ----
